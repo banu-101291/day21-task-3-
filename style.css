@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(86, 217, 240);
+}
+h1{
+text-align: center;
+}
+table{
+    width:75%;
+    border:2px solid rgb(6, 6, 6);
+    text-align: center;
+    margin-left:200px;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+}
+th{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+}
+table tr th, table tr td{
+    padding: 10px;
+    border: 2px solid rgb(152, 72, 28);
+}
